@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BLMA"]
-	path = BLMA
-	url = https://git.bioconductor.org/packages/BLMA
 [submodule "PINSPlus"]
 	path = PINSPlus
 	url = https://github.com/cran/PINSPlus
